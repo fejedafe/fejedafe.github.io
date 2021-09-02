@@ -1,6 +1,6 @@
 ---
 layout: page
-title "Blog"
+title ""
 ---
 
   A current master’s degree student at the University of Bradford studying Applied Artificial Intelligence and Data Analytics, 
