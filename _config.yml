@@ -16,7 +16,7 @@ show_social: true
 # Menu
 
 navigation:                # accepts {file, title, url, icon, sidebaricon}
-  - {file: "Fejiro_Edafe_.CV.docx", title "My CV"}
+  - {file: "My CV", title "Fejiro_Edafe_.CV"}
   - {title: "Blog", title "blog.md"}
 
 external:                  # shows a footer with social links - for available icons see fontawesome.com/icons
