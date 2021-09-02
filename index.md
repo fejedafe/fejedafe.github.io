@@ -1,5 +1,5 @@
 ---
-layout: pge
+layout: page
 title "Blog"
 ---
 
